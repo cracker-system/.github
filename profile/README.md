@@ -1,5 +1,5 @@
 # Cracker
-イベント入退場管理システム
+文化祭入退場管理システム
 
 - **[front](https://github.com/cracker-system/front)** : Cracker Front-end
 - **[back](https://github.com/cracker-system/back)** : Cracker Back-end
